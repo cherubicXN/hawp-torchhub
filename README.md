@@ -1,2 +1,2 @@
-# hawp-torchhub
-hawp-torchhub
+# HAWP-torchhub
+Pretrained models for HAWP via torchhub.
